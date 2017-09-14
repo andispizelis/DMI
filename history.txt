@@ -1,0 +1,110 @@
+    1  VirtualBox --startvm XP
+    2  pwd
+    3  ls
+    4  ls =l
+    5  ls-l
+    6  uname -r
+    7  ls
+    8  cd Desktop/
+    9  ls
+   10  cd .
+   11  cd..
+   12  cd ..
+   13  mkdir tests
+   14  ls
+   15  cd tests
+   16  nano a.txt
+   17  ls
+   18  cat a.txt
+   19  rm a.txt
+   20  ls
+   21  cd ..
+   22  ls
+   23  rm tests
+   24  rmdir tests
+   25  ls
+   26  nano vards.py
+   27  python vards.py
+   28  ls
+   29  rm vards.py
+   30  ls
+   31  echo $ cau
+   32  echo sodien list lietus
+   33  who
+   34  whoami
+   35  nano hello.py
+   36  python hello.py
+   37  rm hello.py
+   38  nano vards.py
+   39  python vards.py
+   40  nano vards.py
+   41  python vards.py
+   42  nano vards.py
+   43  rm vards.py
+   44  cd ..
+   45  ls
+   46  cd user
+   47  ls
+   48  lsb_release
+   49  history
+   50  ls -l
+   51  ls -la
+   52  ls -l
+   53  nano a.txt
+   54  ls
+   55  mkdir tests
+   56  ls
+   57  cd tests
+   58  cd ..
+   59  cp a.txt tests
+   60  ls
+   61  cd tests
+   62  ls
+   63  cd ..
+   64  mv a.txt tests
+   65  ls
+   66  cd tests
+   67  ls
+   68  rm a.txt
+   69  ls
+   70  cd ..
+   71  rmdir tests
+   72  ls
+   73  history
+   74  cp history a.txt
+   75  nano a.txt
+   76  y
+   77  ls
+   78  rm a.txt
+   79  mk a.txt
+   80  nano history.txt
+   81  cp history history.txt
+   82  rm history.txt
+   83  ls
+   84  nano tests.py
+   85  python tests.py
+   86  nano tests.py
+   87  ls
+   88  rm test.py
+   89  rm tests.py
+   90  echo $0
+   91  pwd
+   92  ls
+   93  nano tests.py
+   94  python tests.py
+   95  nano tests.py
+   96  python tests.py
+   97  nano tests.py
+   98  python tests.py
+   99  nano tests.py
+  100  python tests.py
+  101  nano tests.py
+  102  rm tests.py
+  103  ls
+  104  ls -l
+  105  mkdir darbi
+  106  ls
+  107  ls -l
+  108  cd darbi
+  109  history
+  110  history > history.txt
