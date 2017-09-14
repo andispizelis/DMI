@@ -1,5 +1,5 @@
-    1  VirtualBox --startvm XP
-    2  pwd
+    
+    
     3  ls
     4  ls =l
     5  ls-l
@@ -108,3 +108,16 @@
   108  cd darbi
   109  history
   110  history > history.txt
+  111  ls
+  112  ls -l
+  113  cat history.txt
+  114  ls -l
+  115  git init
+  116  git add .
+  117  git config --global user.email pizelis42@gmail.com
+  118  git commit -m "20170914_09_30"
+  119  git remote add origin https://github.com/andispizelis/DMI.git
+  120  git push origin master
+  121  pwd
+  122  history
+  123  history > history.txt
