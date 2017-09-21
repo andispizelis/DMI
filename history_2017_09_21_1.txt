@@ -1,0 +1,21 @@
+    1  VirtualBox --startvm XP
+    2  nano git-upload
+    3  git-upload
+    4  ls
+    5  git-upload
+    6  nano git-upload
+    7  git-upload
+    8  nano git-upload
+    9  git-upload
+   10  nano git-upload
+   11  git-upload
+   12  nano git-upload
+   13  git-upload
+   14  ls
+   15  ls -la
+   16  nano git-upload
+   17  git-upload
+   18  nano git-upload
+   19  ls]
+   20  ls
+   21  history > history_2017_09_21_1.txt
