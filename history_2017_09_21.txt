@@ -8,15 +8,15 @@
     8  ls -l
     9  pwd
    10  echo $PATH
-   11  PATH=$PATH:/home/user #pievieno celam
-   12  echo $PATH # sistemas celi caur kuriem iet lai izpilditu skriptu
+   11  PATH=$PATH:/home/user
+   12  echo $PATH
    13  ls git-download.sh
    14  ls -l git-download.sh
    15  git-download
    16  /bin/ls
    17  ~/git-download.sh
    18  git-download.sh
-   19  chmod 744 git-download.sh #maina tiesibas failam
+   19  chmod 744 git-download.sh
    20  git-download.sh
    21  ls
    22  cd DMI
@@ -41,27 +41,148 @@
    41  cd DMI
    42  nano history.txt
    43  cd ..
-   44  mv git-download.sh git-download # parsaauc/parvieto doto failu
+   44  mv git-download.sh git-download
    45  ls -l
    46  cd DMI
    47  cd ..
    48  ls
    49  nano git-upload.sh
-   50  cp git-download DMI # nokope failu uz DMI mapi
+   50  cp git-download DMI
    51  ls
    52  cd DMI
    53  ls
    54  cd ..
    55  ls
-   56  rm git-upload.sh #izdzes failu
-   57  cd DMI 
-   58  ls -la # atver sarakstus ar failiem un parada tiesibas
-   59  nano git-upload.sh # atver scripta rakstisanas formatu
-   60  ls # parbauda sarakstus kadi ir saja mape
-   61  cd .. # aiziet uz iepreiksejo mapi
-   62  cd DMI # aiziet uz github darba mapi
-   64  cd .. #aiziet uz ieprieksejo mapi
-   67  whereis git-upload #parbauda kur atrodas git-upload
-   68  cd DMI # aiziet uz github darba mapi
-   69  history > history_2017_09_21.txt  # saglaba vesturi txt faila
-
+   56  rm git-upload.sh
+   57  cd DMI
+   58  ls -la
+   59  nano git-upload.sh
+   60  ls
+   61  cd ..
+   62  cd DMI
+   63  ls git-upload
+   64  cd ..
+   65  ls -l git-upload
+   66  ls git-upload
+   67  whereis git-upload
+   68  cd DMI
+   69  history > history_2017_09_21.txt
+   70  ls -l git-upload
+   71  ls git-upload
+   72  cd ..
+   73  ls
+   74  pwd
+   75  cp git-upload /home/user
+   76  cd DMI
+   77  ls
+   78  echo git-upload
+   79  nano git-upload
+   80  cat git-upload
+   81  pwd
+   82  PATH=$PATH:/home/user/DMI
+   83  chmod 744 git-upload
+   84  ls
+   85  git-upload
+   86  cd ..
+   87  ls
+   88  cd DMI
+   89  ls -la
+   90  nano git-upload
+   91  nano history_2017_09_21.txt
+   92  git-upload
+   93  nano git-upload
+   94  date
+   95  nano git-upload
+   96  nano
+   97  nano git-upload
+   98  nano
+   99  cat date
+  100  nano date
+  101  cat date
+  102  chmod 744 date
+  103  ls -la
+  104  date
+  105  nano name
+  106  name
+  107  chmod 744 name
+  108  name
+  109  nano name
+  110  name
+  111  date
+  112  DATE
+  113  name
+  114  nano name
+  115  name
+  116  nano name
+  117  name
+  118  nano name
+  119  name
+  120  nano name
+  121  ls
+  122  nano date
+  123  rm date
+  124  ls
+  125  nano git-upload
+  126  ls
+  127  nano git-upload
+  128  nano name
+  129  name
+  130  nano name
+  131  name
+  132  nano name
+  133  git-upload
+  134  nano git-upload
+  135  git-upload
+  136  nano git-upload
+  137  history > history2.txt
+  138  ls
+  139  rm history_2017_09_21_1.txt
+  140  ls
+  141  rm name
+  142  rm name.save
+  143  ls
+  144* 
+  145  nano history2.txt
+  146  git-upload
+  147  nano git-upload
+  148  git-upload
+  149  nano git-upload
+  150  git-upload
+  151  nano git-upload
+  152  git-upload
+  153  nano git-upload
+  154  git-upload
+  155  nano git-upload
+  156  git-upload
+  157  nano git-upload
+  158  git-upload
+  159  nano git-upload
+  160  echo DATE_VAR
+  161  echo $DATE_VAR
+  162  nano git-upload
+  163  ls
+  164  nano shell_tre.sh
+  165  nano 1.py
+  166  python 1.py
+  167  nano 1.py
+  168  ls
+  169  ./shell_tre.sh
+  170  chmod 744 shell_tre.sh
+  171  ./shell_tre.sh
+  172  ls
+  173  nano 1.py
+  174  git-upload
+  175  nano 1.py
+  176  nano 2.py
+  177  python 2.py
+  178  nano 2.py
+  179  python 2.py
+  180  nano 2.py
+  181  python 2.py
+  182  nano 2.py
+  183  python 2.py
+  184  nano 2.py
+  185  python 2.py
+  186  ls
+  187  rm history2.txt
+  188  history > history_2017_09_21.txt
