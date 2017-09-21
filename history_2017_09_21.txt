@@ -8,15 +8,15 @@
     8  ls -l
     9  pwd
    10  echo $PATH
-   11  PATH=$PATH:/home/user
-   12  echo $PATH
+   11  PATH=$PATH:/home/user #pievieno celam
+   12  echo $PATH # sistemas celi caur kuriem iet lai izpilditu skriptu
    13  ls git-download.sh
    14  ls -l git-download.sh
    15  git-download
    16  /bin/ls
    17  ~/git-download.sh
    18  git-download.sh
-   19  chmod 744 git-download.sh
+   19  chmod 744 git-download.sh #maina tiesibas failam
    20  git-download.sh
    21  ls
    22  cd DMI
@@ -41,29 +41,27 @@
    41  cd DMI
    42  nano history.txt
    43  cd ..
-   44  mv git-download.sh git-download
+   44  mv git-download.sh git-download # parsaauc/parvieto doto failu
    45  ls -l
    46  cd DMI
    47  cd ..
    48  ls
    49  nano git-upload.sh
-   50  cp git-download DMI
+   50  cp git-download DMI # nokope failu uz DMI mapi
    51  ls
    52  cd DMI
    53  ls
    54  cd ..
    55  ls
-   56  rm git-upload.sh
-   57  cd DMI
-   58  ls -la
-   59  nano git-upload.sh
-   60  ls
-   61  cd ..
-   62  cd DMI
-   63  ls git-upload
-   64  cd ..
-   65  ls -l git-upload
-   66  ls git-upload
-   67  whereis git-upload
-   68  cd DMI
-   69  history > history_2017_09_21.txt
+   56  rm git-upload.sh #izdzes failu
+   57  cd DMI 
+   58  ls -la # atver sarakstus ar failiem un parada tiesibas
+   59  nano git-upload.sh # atver scripta rakstisanas formatu
+   60  ls # parbauda sarakstus kadi ir saja mape
+   61  cd .. # aiziet uz iepreiksejo mapi
+   62  cd DMI # aiziet uz github darba mapi
+   64  cd .. #aiziet uz ieprieksejo mapi
+   67  whereis git-upload #parbauda kur atrodas git-upload
+   68  cd DMI # aiziet uz github darba mapi
+   69  history > history_2017_09_21.txt  # saglaba vesturi txt faila
+
