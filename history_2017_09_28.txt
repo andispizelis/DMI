@@ -1,0 +1,89 @@
+    1  VirtualBox --startvm XP
+    2  ls -l
+    3  gitdownload
+    4  git clone https://github.com/andispizelis/DMI.git
+    5  ls
+    6  cd DMI
+    7  ls
+    8  nano 1.py
+    9  nano 2.py
+   10  python 2.py
+   11  nano 2.py
+   12  rm 1.py
+   13  rm 2.py
+   14  ls
+   15  name
+   16  nano name
+   17  rm name
+   18  ls
+   19  nano shell_tre.sh
+   20  ls
+   21  nano shell_tre.sh
+   22  nano shell_tre1.sh
+   23  ls
+   24  nano tre_1.sh
+   25  ls
+   26  nano tre_1.py
+   27  python ./tre_1.py
+   28  ls
+   29  rm tre_1.py
+   30  ls
+   31  nano basic_operators.sh
+   32  echo basic_operators.sh
+   33  ls
+   34  chmod +x basic_operators.sh
+   35  ls
+   36  basic_operators.sh
+   37  ./basic_operators.sh
+   38  nano basic_operators.sh
+   39  ./basic_operators.sh
+   40  nano basic_operators.sh
+   41  ./basic_operators.sh
+   42  nano basic_operators.sh
+   43  ./basic_operators.sh
+   44  nano basic_operators.sh
+   45  ./basic_operators.sh
+   46  nano basic_operators.sh
+   47  ./basic_operators.sh
+   48  nano basic_operators.sh
+   49  ./basic_operators.sh
+   50  nano basic_operators.sh
+   51  ./basic_operators.sh
+   52  nano boolean_operators.sh
+   53  chmod +x boolean_operators.sh
+   54  ./boolean_operators.sh
+   55  nano if_elif_else_stat.py
+   56  chmod +x if_elif_else_stat.py
+   57  ls
+   58  ./if_elif_else_stat.py
+   59  nano if_elif_else_stat.py
+   60  ./if_elif_else_stat.py
+   61  nano if_elif_else_stat.py
+   62  nano if_elif_else.py
+   63  chmod +x if_elif_else.py
+   64  ls
+   65  nano if_elif_else.py
+   66  ./if_elif_else.py
+   67  nano if_elif_else.py
+   68  ./if_elif_else.py
+   69  nano if_elif_else.py
+   70  ./if_elif_else.py
+   71  nano if_elif_else.py
+   72  ./if_elif_else.py
+   73  nano if_elif_else.py
+   74  ./if_elif_else.py
+   75  nano if_elif_else.py
+   76  ./if_elif_else.py
+   77  nano if_elif_else.py
+   78  ls
+   79  git-upload
+   80  chmod +x git-upload
+   81  git-upload
+   82  nano git-uplaod
+   83  nano git-upload
+   84  git-upload
+   85  chmod 744 git-upload
+   86  ls -l
+   87  git-upload
+   88  nano git-upload
+   89  history > history_2017_09_28.txt
