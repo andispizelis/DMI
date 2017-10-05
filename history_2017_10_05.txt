@@ -1,0 +1,98 @@
+    1  VirtualBox --startvm XP
+    2  git clone https://github.com/andispizelis/DMI.git
+    3  ls
+    4  cd DMI
+    5  ls
+    6  ls -l
+    7  ls
+    8  nano md_1.txt
+    9  ls
+   10  nano basic_operators.sh
+   11  ls
+   12  basic_operators.sh
+   13  chmod +x basic_operators.sh
+   14  basic_operators.sh
+   15  pwd
+   16  PATH=$PATH:/home/user/DMI
+   17  basic_operators.sh
+   18  chmod +x git-upload
+   19  ls -l
+   20  basic_operators.sh
+   21  nano shell_loop.sh
+   22  chmmod +x shell_loop.sh
+   23  chmod +x shell_loop.sh
+   24  ls
+   25  shell_loop.sh
+   26  nano shell_loop.sh
+   27  shell_loop.sh
+   28  nano shell_loop.sh
+   29  shell_loop.sh
+   30  nano shell_loop.sh
+   31  shell_loop.sh
+   32  nano shell_loop.sh
+   33  shell_loop.sh
+   34  nano shell_loop.sh
+   35  shell_loop.sh
+   36  nano shell_loop.sh
+   37  shell_loop.sh
+   38  nano shell_loop.sh
+   39  shell_loop.sh
+   40  nano shell_loop.sh
+   41  shell_loop.sh
+   42  nano shell_loop.sh
+   43  nano inf_loop.sh
+   44  chmod +x inf_loop.sh
+   45  inf_loop.sh
+   46  nano inf_loop.sh
+   47  inf_loop.sh
+   48  nano inf_loop.sh
+   49  inf_loop.sh
+   50  rm inf_loop.sh
+   51  ls
+   52  nano loop_control.sh
+   53  chmod +x loop_control.sh
+   54  loop_control.sh
+   55  nano loop_control.sh
+   56  loop_control.sh
+   57  nano loop_control.sh
+   58  loop_control.sh
+   59  nano loop_control_2.sh
+   60  chmod +x loop_control_2.sh
+   61  loop_control_2.sh
+   62  nano loop_control_2.sh
+   63  loop_control_2.sh
+   64  nano loop_control_2.sh
+   65  loop_control_2.sh
+   66  nano loop_control_2.sh
+   67  loop_control_2.sh
+   68  nano loop_control_2.sh
+   69  loop_control_2.sh
+   70  nano loop_control_2.sh
+   71  nano cont_stat_loop.sh
+   72  chmod +x cont_stat_loop.sh
+   73  cont_stat_loop.sh
+   74  chmod +x cont_stat_loop.sh
+   75  nano cont_stat_loop.sh
+   76  cont_stat_loop.sh
+   77  nano cont_stat_loop.sh
+   78  cont_stat_loop.sh
+   79  nano cont_stat_loop.sh
+   80  cont_stat_loop.sh
+   81  nano cont_stat_loop.sh
+   82  nano comm_subs.sh
+   83  chmod +x comm_subs.sh
+   84  comm_subs.sh
+   85  nano comm_subs.sh
+   86  comm_subs.sh
+   87  nano comm_subs.sh
+   88  comm_subs.sh
+   89  nano funct.sh
+   90  chmod +x funct.sh
+   91  funct.sh
+   92  nano funct.sh
+   93  funct.sh
+   94  ls
+   95  rm funct.sh
+   96  ls
+   97  history
+   98  history > history_2017_10_05.txt
