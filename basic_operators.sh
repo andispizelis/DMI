@@ -1,9 +1,12 @@
 #!/bin/sh
 
-a=450
-b=-36
+if [ $# == 2 ]
+then
 
-if [ $a -eq $b ] #vienadibas parbaude
+#a=0
+#b=-36
+
+if [ $a -eq $b ] #parbauda  vienadibu
 then
    echo "$a -eq $b : a is equal to b" # patiesa
 else
@@ -13,7 +16,7 @@ fi
 if [ $a -ne $b ] #vienadibas parbaude
 then
    echo "$a -ne $b: a is not equal to b" #patiesa
-else
+	else
    echo "$a -ne $b : a is equal to b" #aplama
 fi
 
@@ -44,5 +47,5 @@ then
 else
    echo "$a -le $b: a is not less or equal to b" # aplama
 fi
-
+fi
 

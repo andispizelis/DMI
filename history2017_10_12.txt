@@ -54,3 +54,4 @@
    54  ./fibonaci.sh
    55  nano fibonaci.sh
    56  history > history.txt
+1
