@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "enter maximum number"
 read n
 # taking input from user
