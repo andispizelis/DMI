@@ -11,7 +11,7 @@ x1 = x + 10
 while x <= x1:
  k = 1
  while k <= 5:
-  print "%d"%(x),
+ # print "%d"%(x),
   c = x % k
   print "\t%d" %(c),
   k = k + 1 
