@@ -1,9 +1,20 @@
-# -*- coding: utf-8 -*-
-import math
-x = int(input("Lietotaj, ludzu ievadi skaitli: "))
-print "Dalijumu atlikumu vertibas tabula".center(80)
-print " \t1 \t2 \t3 \t4 \t5 \t6 \t7 \t8 \t9"
-print x
-for i in range(x, 11):
-   print ()
+#!/usr/bin/python
 
+x = input("Ievadi skaitli: ")
+
+
+print ("\t%1\t%2\t%3\t%4\t%5")
+
+x1 = x + 10
+
+
+while x <= x1:
+ k = 1
+ while k <= 5:
+  print "%d"%(x),
+  c = x % k
+  print "\t%d" %(c),
+  k = k + 1 
+ x = x + 1
+ print "\n%d" %(x)
+print
