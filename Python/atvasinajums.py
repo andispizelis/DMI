@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 
 def mans_sinuss(x):
     k = 0
-    a = (-1)**0*x**1/(1)
+    a = (-1)**0*x**1/(1*2**(1))
     S = a
     while k < 500:
         k = k + 1
-        R = (-1)*x*x/((2*k)*(2*k+1))
+        R = (-1)*x*x/(2*k*(2*k+1)*2**2)
         a = a * R
         S = S + a
     return S

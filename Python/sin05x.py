@@ -10,7 +10,7 @@ print "a0 = %6.2f S = %6.2f"%(a,S)
 
 while k < 10:
    k = k + 1
-   R = (-1)*x*x/(2*k*(2*k+1)*2**2))
+   R = (-1)*x*x/(2*k*(2*k+1)*2**2)
    a = a * R
    S = S + a
    print "a%d = %6.2f S%d = %6.2f"%(k,a,k,S)
